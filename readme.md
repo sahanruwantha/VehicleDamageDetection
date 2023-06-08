@@ -61,3 +61,6 @@ The trained model achieves an accuracy of XX% on the test set. The confusion mat
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+i used google colab to train this model. https://colab.research.google.com/drive/1E6gbiHgmxJ_HBcqxcGF73bA4M4bkiwo5?usp=sharing
+model https://drive.google.com/file/d/1nxUetgrJhIIVbZulbVLkJ40iAeH_20Pj/view?usp=sharing
